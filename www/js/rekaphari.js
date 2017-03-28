@@ -1,4 +1,4 @@
-var server = "http://localhost/absensionline1/";
+var server = "http://192.168.43.100/absensionlines/";
 $('document').ready(function(){
 	var nama = localStorage.getItem('namasiswa');
 	var kelas = localStorage.getItem('kelasiswa');
