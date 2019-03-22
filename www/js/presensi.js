@@ -1,4 +1,4 @@
-var server = "http://192.168.11.16/absensionline/";
+var server = "http://192.168.11.16:8080/absensionline/";
 $('document').ready(function(){
 	var kelas = localStorage.getItem('kelasiswa');
 	$("#id-kelas").html(kelas);
