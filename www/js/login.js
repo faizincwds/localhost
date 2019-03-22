@@ -1,4 +1,4 @@
-var server = "http://192.168.11.16/absensionline/"
+var server = "http://192.168.11.16:8080/absensionline/"
 	localStorage.setItem("namasiswa","00");
 	localStorage.setItem("kelasiswa","00");
 $(document).ready(function(){
